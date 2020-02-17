@@ -1,0 +1,55 @@
+h4{
+    color: #7a6767;
+    padding-top: 0.4em;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(52,58,64);
+    color: white;
+    padding-top: 2px;
+ }
+
+ .boxMain{
+    background-color: white;
+    margin-top: 4em;
+    margin-bottom: 4em;
+    padding-left: 1em;
+    padding-bottom: 1em;
+    padding-right: 1em;
+}
+
+body{
+    background-color: #cccc;
+}
+
+#navbarNav .navbar-nav li a{
+    color: white;
+}
+
+#navbarNav .navbar-nav li a:hover{
+    text-decoration: underline;
+    color: rgba(240, 235, 235, 0.8);
+}
+#erro-label{
+    color: red;
+    font-size: 13px;
+}
+
+.form-check{
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+.validaCampos{
+    color: red;
+    font-size: 13px;
+}
+
+#sendSuccess{
+    color: royalblue;
+}
+
+img{
+	max-width:100%;
+	height:auto;
+}
