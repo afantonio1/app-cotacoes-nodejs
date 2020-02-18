@@ -1,5 +1,5 @@
 const request = require('request')
-const api_token = 'jKL7PbfqE429bRqtwsCRA6mgPx1Kc5YfZA8HKXJfNshXbuI5u8vogOJLY4A6';
+const api_token = 'Informar o seu token aqui ...';
 
 const cotacao = (symbol, callback) => {
 
